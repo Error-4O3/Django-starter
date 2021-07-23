@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt install python3-venv
 sudo apt install python3
-sudo apt installl pip
+sudo apt install pip
 pip install django
 echo "
 ██████╗░░░░░░██╗░█████╗░███╗░░██╗░██████╗░░█████╗░
