@@ -9,6 +9,6 @@ bash Django.sh
 ```
 <p1>For now the starter only includes installer and basic starter for linux distros. Evntually we will add the installer and basic starter for other Operating system also.</p1>
 
-<h3> In this repository we have coded in such a way that the users don't have to command the terminal the basics like startapp startproject or creating superusers. It instantly does all the work regarding migrations that are necessary after starting a project</h3>
+<h3> In this repository we have coded in such a way that the users don't have to command the terminal the basics like creating vitual environment, startapp startproject or creating superusers. It instantly does all the work regarding migrations that are necessary after starting a project</h3>
 
 <h2> Any contribution in the code is highly appreciated</h2>
